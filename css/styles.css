@@ -16,7 +16,7 @@ body{
     place-content: center;
 
     background: linear-gradient(180deg, var(--primary), var(--secondary)),
-       url(/images/Gemini.png) no-repeat center center/ cover;
+       url(../images/Gemini.png) no-repeat center center/ cover;
 
 }
 
